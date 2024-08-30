@@ -1,7 +1,7 @@
 {
  "name": "losowa_nazwa",
  "description": "losowy opis",
- "iconName": "example-icon",
+ "iconName": "icons/python.svg",
  "categories": [
  "Go"
  ],
