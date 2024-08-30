@@ -1,12 +1,7 @@
 {
- "name": <NAZWA>, # ⬅ Wymagane. Wypełnić dowolną nazwą
- "description": <OPIS>, # ⬅ Wymagane. 
- "iconName": "example-icon", # ⬅ Nazwa pliku SVG (bez rozszerzenia!) który
-jest katalogu workflow
- # Można użyć wartości jednej z 3 kategorii:
- # - ogólna - https://github.com/actions/starterworkflows/blob/main/README.md#categories
- # - języki - https://github.com/githublinguist/linguist/blob/master/lib/linguist/languages.yml
- # - stos technologiczny - https://github.com/github-starter-workflows/repoanalysis-partner/blob/main/tech_stacks.yml
+ "name": "losowa_nazwa",
+ "description": "losowy opis",
+ "iconName": "example-icon",
  "categories": [
  "Go"
  ],
